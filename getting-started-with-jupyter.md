@@ -12,7 +12,7 @@ You can use a notebook from the start, but you can also write your python code s
 - Python 3
 - [Jupyter Notebook](http://jupyter.org/install)
 
-If you don't yet have Python 3 on your computer, the easiest way to install everything is [Anaconda](https://www.anaconda.com/download/) (choose the Python 3.7 version).
+If you don't yet have Python 3 on your computer, the easiest way to install everything is [Anaconda](https://www.anaconda.com/download/) (choose the latest Python version).
 This includes Jupyter as well as any additional libraries you may need.
 If you already have Python 3 installed, you can also install Jupyter manually using pip:
 
